@@ -1,0 +1,28 @@
+body {
+    background-color: lightcoral;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    font-weight: bolder;
+    font-size: 60px;
+    text-align: center;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.info {
+    padding: 5px;
+    margin: 0;
+    
+
+}
+
+input {
+    border-radius: 4px;
+    
+    
+}
